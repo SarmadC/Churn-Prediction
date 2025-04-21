@@ -48,7 +48,7 @@ The project follows these steps within the `churn-prediction.ipynb` Jupyter Note
 ## Usage
 
 To explore the analysis or replicate the results, run the Jupyter Notebook:
-`churn-prediction (1).ipynb`
+`churn-prediction.ipynb`
 
 ## Libraries Required
 
